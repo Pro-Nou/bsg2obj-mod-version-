@@ -1,8 +1,9 @@
 # bsg2obj-mod-version 
 此为下述项目的游戏内mod版本  
-https://github.com/Pro-Nou/bsg2obj
-
-
+https://github.com/Pro-Nou/bsg2obj  
+  
+steam工坊地址: https://steamcommunity.com/sharedfiles/filedetails/?id=2759486504
+  
 # Previews  
 注意：视频中的卡顿是由github播放器导致的，暂时没有找到解决办法。  
       如果想查看流畅的视频请下载到本地。  
